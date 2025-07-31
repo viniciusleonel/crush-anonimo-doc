@@ -39,7 +39,7 @@ O **Crush Anônimo** é uma plataforma que possibilita aos usuários enviarem me
 ## Fluxo Completo do Sistema
 
 [Fluxo do Crush Anônimo - Excalidraw Link](https://excalidraw.com/#json=esnBiB0MyItGMZHJR7B6N,WN_kfK2n96dF5PVIEE2gJA)
-![Fluxo do Crush Anônimo](crush-anonimo-workflow.svg)
+![Fluxo do Crush Anônimo](crush-anonimo-workflow.png)
 
 ### 1. **Início e Configuração Regional**
 - **Usuário acessa o site**: O fluxo começa com o usuário acessando a aplicação
